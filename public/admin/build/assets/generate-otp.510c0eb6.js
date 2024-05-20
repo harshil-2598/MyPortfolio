@@ -1,0 +1,1 @@
+$("#generate-otp").on("click",function(){var i=$(this).html().trim();i=="proceed"?($(this).html("Login"),$("#login-otp").css("display","flex"),$("#mobile-num").css("display","none")):($(this).html("Login"),$("#login-otp").css("display","flex"),$("#mobile-num").css("display","none"))});
