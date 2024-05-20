@@ -77,7 +77,7 @@
             <h2>Hello {{ $name }},</h2>
             <p>
                 {{ $email }}
-                {{ $email }}
+                
             </p>
             <p>
                 {{ $msg }}
