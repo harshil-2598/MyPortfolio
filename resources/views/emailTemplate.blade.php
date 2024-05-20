@@ -80,6 +80,7 @@
             </p>
             <p>
                 {{ $msg }}
+                {{ $msg }}
             </p>
             
             <a href="mailto:{{ $email }}" class="button">Contact Us</a>
